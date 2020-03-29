@@ -21,5 +21,7 @@ def breed
 end
 end
 
+snoopy = Dog.new
+snoopy.breed = ""
 
 
