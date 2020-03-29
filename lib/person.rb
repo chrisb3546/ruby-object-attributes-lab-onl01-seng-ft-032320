@@ -19,4 +19,5 @@ end
   job
  end
  
- 
+ beyonce = Person.new 
+ beyonce.job = "singer"
