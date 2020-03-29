@@ -8,7 +8,6 @@ def name
   @name
  end
 
-bey
 
   
   def job=(job)
