@@ -22,6 +22,6 @@ end
 end
 
 snoopy = Dog.new
-snoopy.breed = ""
+snoopy.breed = "Beagle"
 
 
