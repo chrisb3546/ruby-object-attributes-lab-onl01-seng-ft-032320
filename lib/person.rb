@@ -15,6 +15,6 @@ def name
 end
 
 def job
+end
   job
  end
-end
