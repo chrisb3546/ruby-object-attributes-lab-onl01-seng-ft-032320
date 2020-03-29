@@ -1,6 +1,6 @@
 class Dog
 
-def name=(dogs_name)
+def initialize(dogs_name)
   @this_dogs_name = dogs_name 
 end
 
